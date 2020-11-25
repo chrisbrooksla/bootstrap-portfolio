@@ -73,3 +73,13 @@ margin-top: 0;
   border-top: 1px solid #bbbbbb;
 }
 
+#gallery{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+#img-thumb{
+  
+  padding: 5px;
+  border: 1px solid #000000;
+}
