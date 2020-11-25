@@ -1,0 +1,44 @@
+1. Introduction
+
+ I'm going to build a site for a fictional music recording studio. The goal is to attract new clients by showcasing the studio's equipment, history, employees and projects that have been done there.
+
+The values and benefits would be to raise the profile and prestige of the recording studio, promote recent projects done or events held at the studio.
+
+2. Expected List Of Features
+
+1. History of the studio
+2. Biographies and resumes of the employees working there
+3. List of recording rooms available
+4. List of recording equipment: mics, amps, instruments, recording console, computers....
+5. Calendar of events ( for people to attend the studio, raise awareness)
+6. Contact information and booking information form (request a tour, speak to a studio manager)
+7. Audio and video examples of projects done at the studio 
+8. Gallery of artists working at the studio, and of the space itself
+9. Social media links (facebook, instagram, twitter)
+10. News feed (current projects, employee accomplishments, media mentions)
+11. Merch page ( t-shirts, stickers, book on studio history..)
+
+3. Market Survey
+
+A) Similar Websites:
+                    1. https://www.castlerecordingstudios.com/  (Castle Recording Studios, Nashville)
+                    2. https://darkhorserecording.com/          (Dark Horse Recording, Nashville)
+                    3. http://soundkitchen.com/                 (Sound Kitchen, Nashville)
+                    4. https://www.blackbirdstudio.com/         (Blackbird Studio, Nashville)
+                    5. http://www.oceanwaynashville.com/        (Ocean Way Studio, Nashville)
+
+B) Comparison: Many of these websites are featuring the artists more than the space, while some are featuring    the space and services more. Many have the gallery, news feed, services, etc. all on the main page, with   navigation to more detailed, specific pages. Some just show a massive picture of the space and the studio   logo on the front page. All are very sleek, modern and clean looking. My website will follow this asthetic,   while having some of the features on the front page. I prefer the user to navigate to different pages for   many of the features.
+
+4. References:
+
+  1. https://www.castlerecordingstudios.com/  (Castle Recording Studios, Nashville)
+                    2. https://darkhorserecording.com/          (Dark Horse Recording, Nashville)
+                    3. http://soundkitchen.com/                 (Sound Kitchen, Nashville)
+                    4. https://www.blackbirdstudio.com/         (Blackbird Studio, Nashville)
+                    5. http://www.oceanwaynashville.com/        (Ocean Way Studio, Nashville)
+
+     https://bandzoogle.com/blog/website-design-inspiration-best-recording-studio-site
+
+
+
+
