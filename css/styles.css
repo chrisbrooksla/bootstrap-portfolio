@@ -149,3 +149,33 @@ margin-top: 0;
 }
 
 /* end contact form */
+
+.staff-page-header {
+  margin-top: 30px;
+  text-decoration: underline;
+  
+}
+
+.bio {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  
+}
+
+.studio-pics {
+  margin-top: 50px;
+  margin-bottom: 30px;
+ 
+}
+
+.studio-pics img{
+   border-top: 1px  solid #bbbbbb;
+  border-bottom: 1px solid #bbbbbb;
+}
+.studio-list-description {
+  margin-bottom: 50px;
+}
+
+.studio-list-body{
+  margin-bottom: 100px;
+}
