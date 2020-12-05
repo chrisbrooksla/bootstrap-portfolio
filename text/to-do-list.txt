@@ -1,0 +1,5 @@
+make home page studio images link to specified area on "studio page"
+center logo in header
+make sure all footer info is the same across all pages
+text for studio descriptions and staff bios, as well as "about the studio"
+update "links" in footer to say: home, about, studios, staff, gallery, contact

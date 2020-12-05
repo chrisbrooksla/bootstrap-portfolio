@@ -25,9 +25,10 @@ margin-top: 0;
 .navbar {
   margin-top: 0;
   padding: 0%;
+  float: none;
    }
 
- 
+
 
 .site-footer {
   padding: 20px 0; }
@@ -179,3 +180,4 @@ margin-top: 0;
 .studio-list-body{
   margin-bottom: 100px;
 }
+
